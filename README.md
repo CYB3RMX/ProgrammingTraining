@@ -19,3 +19,6 @@ Codes, sources about programming languages for training
 ## Nim
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Nimlang/basics.nim">Basics of Nim</a>
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Nimlang/conditions.nim">Conditions</a>
+
+## Rust
+- <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/hello.rs">Basics of Rust</a>
