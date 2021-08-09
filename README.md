@@ -24,3 +24,5 @@ Codes, sources about programming languages for training
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/hello.rs">Basics of Rust</a>
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/strings.rs">String Operations</a>
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/conditions.rs">Conditions</a>
+- <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/functions.rs">Functions</a>
+- <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/inputs.rs">Keyboard Input</a>
