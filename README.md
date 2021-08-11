@@ -26,3 +26,8 @@ Codes, sources about programming languages for training
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/conditions.rs">Conditions</a>
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/functions.rs">Functions</a>
 - <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/Rust/inputs.rs">Keyboard Input</a>
+
+## x86 Assembly
+- <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/x86_Assembly/helloworld.asm">Hello world!</a>
+- <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/x86_Assembly/user_prompt.asm">User Input</a>
+- <a href="https://github.com/CYB3RMX/ProgrammingTraining/blob/main/x86_Assembly/addressing.asm">Addressing/Changing variable values</a>
